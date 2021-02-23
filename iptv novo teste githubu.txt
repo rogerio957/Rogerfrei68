@@ -1,0 +1,210 @@
+
+# EXTM3U
+#EXTINF:0 group-title="Assistir SBT PI Ao Vivo VTV Agora HD
+https://stmv1.transmissaodigital.com/cidadeverde/cidadeverde/chunklist_w1986932119.m3u8
+#EXTINF:0 group-title="Assistir 2
+http://stmv2.euroti.com.br:1935/classique/classique/chunklist_w1090168628.m3u8
+#EXTINF:0 group-title="Assistir 3
+https://stmv1.srvstm.com/classique2/classique2/chunklist.m3u8
+#EXTINF:0 group-title="Assistir 4
+https://stmv1.transmissaodigital.com/clodoaldo7589/clodoaldo7589/chunklist_w82669921.m3u8
+#EXTINF:0 group-title="Assistir 5
+https://srv2.zcast.com.br/cleto2085/cleto2085/chunklist_w1949414442.m3u8
+#EXTINF:0 group-title="Assistir 6
+https://livefocamundo.com:8081/8650/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Assistir 7
+https://livefocamundo.com:8081/8588/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Assistir 8
+https://novo.bitstreaming.info:1936/oprogressotvstation/oprogressotvstation/chunklist_w1289546780.m3u8
+#EXTINF:0 group-title="Assistir 9
+https://stmv1.srvstm.com/tvserie/tvserie/chunklist_w886245417.m3u8
+#EXTINF:0 group-title="Assistir 10
+https://59f2354c05961.streamlock.net:1443/tvdigitalbirigui/_definst_/tvdigitalbirigui/chunklist_w911761808.m3u8
+#EXTINF:0 group-title="Assistir 11
+https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/seglist_720p.m3u8
+#EXTINF:0 group-title="Assistir 12
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
+#EXTINF:0 group-title="Assistir 13
+https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@829515/index_2500_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0 group-title="Assistir 14
+https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_2328.m3u8
+#EXTINF:0 group-title="Assistir 15
+https://tmc-hls-live-ssl.tf1.fr/tmc/1/hls/live_2328.m3u8
+#EXTINF:0 group-title="Assistir 16
+http://video01.kshost.com.br/jorge1313/jorge1313/chunklist_w4431314.m3u8
+#EXTINF:0 group-title="Assistir 17
+https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/chunklist_w32293427.m3u8
+#EXTINF:0 group-title="Assistir 18
+https://livefocamundo.com:8081/8148/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Assistir 19
+https://stmv1.srvif.com/reconsatcine/reconsatcine/chunklist_w548058603.m3u8
+#EXTINF:0 group-title="Assistir 20
+https://srv2.zcast.com.br/cleto2085/cleto2085/chunklist_w1766127746.m3u8
+#EXTINF:0 group-title="Assistir 21
+https://livefocamundo.com:8081/8470/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Assistir 22
+https://novo.bitstreaming.info:1936/8032/8032/chunklist_w92011918.m3u8
+#EXTINF:0 group-title="Assistir 23
+http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/chunklist.m3u8
+#EXTINF:0 group-title="Assistir 24
+http://sc.id-tv.kz/A2_36_37.m3u8
+#EXTINF:0 group-title="Assistir 25
+https://live.creacast.com/d5tv/smil:d5tv.smil/chunklist_w958420568_b1928000.m3u8
+#EXTINF:0 group-title="Assistir 26
+http://dai.google.com/linear/hls/event/LeVr-Z0_Q4qMDdXx7zr22w/master.m3u8
+#EXTINF:0 group-title="Assistir 27
+http://dai.google.com/linear/hls/event/dRKvXuioSv-e5T65yR_7Ow/master.m3u8
+#EXTINF:0 group-title="Assistir 28
+https://srv3.zcast.com.br/telavivatv/telavivatv/chunklist_w27166670.m3u8
+#EXTINF:0 group-title="Assistir 29
+https://stmv1.srvif.com/gospelf/gospelf/chunklist_w74712399.m3u8
+#EXTINF:0 group-title="Assistir 30
+https://59f1cbe63db89.streamlock.net:1443/canal/_definst_/canal/chunklist_w688155486.m3u8
+#EXTINF:0 group-title="Assistir 31
+https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@829515/index_2500_av-b.m3u8
+#EXTINF:0 group-title="Assistir 32
+http://136.243.177.164/HBO/index.m3u8?h=WTL4O0zvYYEAVfZX-dwXvg
+#EXTINF:0 group-title="Assistir 33
+http://136.243.177.164/HBO2/index.m3u8?h=308R7a2QNxrbpmxlKw8Ahw
+#EXTINF:0 group-title="Assistir 34
+http://136.243.177.164/HBO3/index.m3u8?h=teJ1EKfjMkWIRvFHlkJG-Q
+#EXTINF:0 group-title="Assistir 35
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+#EXTINF:0 group-title="Assistir 36
+http://136.243.177.164/AXN/index.m3u8?h=WTL4O0zvYYEAVfZX-dwXvg
+#EXTINF:0 group-title="Assistir 37
+https://www.livedoomovies.com/02_FoxThai_TH_720p/chunklist.m3u8
+#EXTINF:0 group-title="Assistir 38
+https://livecdn.fptplay.net/hda/blueantext_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 group-title="Assistir 39
+https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 group-title="Assistir 40
+http://nn2.joj.sk/hls/wau-540.m3u8
+#EXTINF:0 group-title="Assistir 41
+https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 group-title="Assistir 42
+https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 group-title="Assistir 43
+https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
+#EXTINF:0 group-title="Assistir 44
+http://d2e40kvaojifd6.cloudfront.net/stream/gem_drama/playlist.m3u8
+#EXTINF:0 group-title="Assistir 45
+http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
+#EXTINF:0 group-title="Assistir 46
+https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
+#EXTINF:0 group-title="Assistir 47
+http://live.netmaxtv.com:8080/live/live/playlist.m3u8
+#EXTINF:0 group-title="Assistir 48
+http://103.214.202.218:8081/live/andflix-29/chunks.m3u8
+#EXTINF:0 group-title="Assistir 49
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/1920x1080_4528000/chunklist.m3u8
+#EXTINF:0 group-title="Assistir 50
+https://live.impresa.pt/live/sic/sic540p.m3u8
+#EXTINF:0 group-title="Assistir 51
+https://live.impresa.pt/live/sicnot/sicnot540p.m3u8
+#EXTINF:0 group-title="Assistir 52
+https://streaming.cnnbrasil.com.br/cnndigital_main.m3u8
+#EXTINF:0 group-title="Assistir 53
+https://streamer-a03.videos.sapo.pt/live/portocanal/playlist.m3u8
+#EXTINF:0 group-title="Assistir 54
+https://live4.tdm.com.mo/ch2/_definst_/ch2.live/playlist.m3u8
+#EXTINF:0 group-title="Assistir 55
+http://196.28.226.121:1935/live/smil:Channel1.smil/playlist.m3u8
+#EXTINF:0 group-title="Assistir 56
+http://c2.manasat.com:1935/kcine/kcine3/FluxusTV.m3u8?fluxustv.m3u8
+#EXTINF:0 group-title="Assistir 57
+http://170.178.189.66:1935/live/Stream1/.m3u8
+#EXTINF:0 group-title="Assistir 58
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
